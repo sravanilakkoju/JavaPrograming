@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class newclass {
     public void myClass(String name){
-        System.out.println("im is the first new class");
+        System.out.println("Iam the first new class");
         Scanner scan = new Scanner(System.in);
         String s = scan.nextLine();
         System.out.println(s + name);
